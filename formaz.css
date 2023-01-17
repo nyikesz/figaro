@@ -1,0 +1,52 @@
+body{
+    background-color: #FFCCAA;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+
+a{
+    color:#A04000;
+
+}
+
+h1{
+    color:#A04000;
+}
+
+#kep1{
+    width: 150px;
+    margin: 5px 20px 5px 20px;
+    float: left;
+}
+
+#kep2{
+    width: 195px;
+    margin: 5px 20px 5px 20px;
+    float: right;
+}
+
+#elso{
+    text-align: justify;
+
+}
+
+#masodik{
+    text-align: justify;
+    margin-bottom:300px;
+}
+
+#jobbsor{
+    text-align: left;
+}
+
+#kozep{
+    text-align: center;
+}
+
+#bal{
+    text-align: right;
+}
+
+table{
+width: 100%;
+}
